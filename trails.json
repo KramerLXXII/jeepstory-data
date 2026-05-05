@@ -1,0 +1,38 @@
+[
+  {
+    "id": "trlmixx_001",
+    "name": "Niagara Rim Trail",
+    "location": "Bridgeport, CA",
+    "region": "Eastern Sierra",
+    "state": "CA",
+    "coordinates": "38.33190, -119.86460",
+    "difficulty": "Moderate",
+    "distance": "12 mi",
+    "description": "A scenic high-desert rim trail with panoramic views of the Eastern Sierra. Best run in late spring through fall. Some rocky sections near the north end.",
+    "tags": [
+      "scenic",
+      "high-desert",
+      "eastern-sierra"
+    ],
+    "addedBy": "TRLMIXX",
+    "featured": true
+  },
+  {
+    "id": "trlmixx_002",
+    "name": "Deadman Summit Loop",
+    "location": "Mammoth Lakes, CA",
+    "region": "Eastern Sierra",
+    "state": "CA",
+    "coordinates": "37.65420, -118.98340",
+    "difficulty": "Hard",
+    "distance": "18 mi",
+    "description": "A challenging loop through volcanic terrain near Mammoth. High clearance required. Stunning views of the Mono Basin from the summit.",
+    "tags": [
+      "volcanic",
+      "high-clearance",
+      "mammoth"
+    ],
+    "addedBy": "TRLMIXX",
+    "featured": true
+  }
+]
