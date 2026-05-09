@@ -1,65 +1,22 @@
-[
-  {
-    "id": "trlmixx_001",
-    "name": "Niagara Rim Trail",
-    "location": "Bridgeport, CA",
-    "region": "Eastern Sierra",
-    "state": "CA",
-    "coordinates": "38.33190, -119.86460",
-    "difficulty": "Moderate",
-    "distance": "12 mi",
-    "description": "A scenic high-desert rim trail with panoramic views of the Eastern Sierra. Best run in late spring through fall. Some rocky sections near the north end.",
-    "tags": [
-      "scenic",
-      "high-desert",
-      "eastern-sierra"
-    ],
-    "addedBy": "TRLMIXX",
-    "featured": true
-  },
-  {
-    "id": "trlmixx_002",
-    "name": "Deadman Summit Loop",
-    "location": "Mammoth Lakes, CA",
-    "region": "Eastern Sierra",
-    "state": "CA",
-    "coordinates": "37.65420, -118.98340",
-    "difficulty": "Hard",
-    "distance": "18 mi",
-    "description": "A challenging loop through volcanic terrain near Mammoth. High clearance required. Stunning views of the Mono Basin from the summit.",
-    "tags": [
-      "volcanic",
-      "high-clearance",
-      "mammoth"
-    ],
-    "addedBy": "TRLMIXX",
-    "featured": true
-  },
-
-  {
-  "id": "trlmixx_003",
-  "name": "Slick Rock Jeep Trail",
-  "location": "Lake Alpine to Utica Reservoir, CA",
-  "region": "Stanislaus National Forest",
-  "state": "CA",
-  "coordinates": "38.28591, -120.00471",
-  "difficulty": "Hard",
-  "distance": "6.5 mi",
-  "elevation": "6,698 - 7,447 ft",
-  "description": "Slick Rock Road (F.R. 7N17) is a moderate to difficult 4x4 trail that begins at Lake Alpine, skirts the Carson Iceberg Wilderness and ends at Utica Reservoir after crossing multiple granite slabs, rock piles, boulders, and alpine creeks. In 2018, a reroute project added 0.75 miles and two new rock crawling obstacles. Street-legal 4x4 vehicles only — no bypasses on difficult sections. High clearance, 4WD, oversized tires, low range, lockers, and rock sliders recommended. No fee. No water on trail.",
-  "notes": "During winter, Highway 4 or Spicer Road may be closed making this an out-and-back. Trail is only open to wheeled motorized use when at least one access road is open. If both are closed, only tracked over-snow vehicles permitted. Verify conditions before running — trail may require post-winter cleanup and USFS approval. Call Calaveras Ranger Station: (209) 795-1381.",
-  "adoptedBy": "Joaquin Jeepers — Stockton, CA. Adopted trail maintainers since the early 1960s.",
-  "parking": "Ample parking at both ends. Information kiosk with map at Lake Alpine end.",
-  "restrooms": "Marmot Day Use Area (Lake Alpine side), Rocky Point Campground / Utica Reservoir end.",
-  "fee": "No fee",
-  "water": "No water available on trail",
-  "tags": ["stanislaus", "rocky", "silver-creek", "granite", "camping", "difficult", "Hwy 4", "Alpine", "Alpine Lake", "Bear Valley", "Utica", "Spicer", "rock-crawling", "street-legal-only"],
-  "addedBy": "TRLMIXX",
-  "featured": true,
-  "status": "Closed",
-  "statusNote": "Currently closed. Verify current conditions with Calaveras Ranger Station (209) 795-1381 before running. Early season may require post-winter cleanup and USFS approval.",
-  "season": "April 15 - December 15",
-  "bestSeason": "May - September",
-  "timeEstimate": "2-3 hours"
+{
+  "id": "trlmixx_000",
+  "name": "Welcome to TRLMIXX Trails",
+  "location": "trlmixx.com",
+  "region": "All Regions",
+  "coordinates": "",
+  "difficulty": "Easy",
+  "distance": "",
+  "elevation": "",
+  "timeEstimate": "",
+  "season": "Year Round",
+  "bestSeason": "",
+  "fee": "Free",
+  "water": "",
+  "description": "TRLMIXX curates the best off-road trails, forest roads, and overland routes across the Western US. New trails are added regularly — check back often and turn on notifications to stay updated.",
+  "notes": "Tap any trail to view full details, conditions, and directions. Tap 'Add to My Trails' to save a trail to your personal list. TRLMIXX trails are verified by the community — if conditions change, report it.",
+  "parking": "",
+  "restrooms": "",
+  "adoptedBy": "TRLMIXX",
+  "status": "Open",
+  "statusNote": ""
 }
-]
